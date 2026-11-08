@@ -12,6 +12,8 @@ Everything runs locally on your computer.
 
 Recordings never leave your machine. Models are downloaded from Hugging Face once and then cached.
 
+![Meeting Transcriber main window](docs/screenshot.png)
+
 ## Quick start
 
 **Windows:** double-click **`Start Meeting Transcriber.bat`**.
