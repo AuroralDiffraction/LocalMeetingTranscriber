@@ -1,0 +1,4 @@
+# Installed automatically by setup_check.py (run by the Start scripts).
+tkinterdnd2>=0.4           # drag & drop from Explorer/Finder
+imageio-ffmpeg>=0.5        # bundled ffmpeg binary
+whisperx~=3.8.6            # transcription + alignment + diarization (pulls in torch, pyannote.audio)

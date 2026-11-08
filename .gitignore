@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Recordings and transcripts that may end up in this folder
+*.m4a
+*.m4b
+*.mp3
+*.mp4
+*.wav
+*.flac
+*.ogg
+*.opus
+*.aac
+*.txt
+!requirements.txt
+*.transcript.json
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
